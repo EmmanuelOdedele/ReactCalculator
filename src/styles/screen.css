@@ -1,0 +1,9 @@
+.screen {
+    height: 100px;
+    width: calc(100% - 6px);
+    margin-top: 20px;
+    outline-color: white;
+    outline-style: groove;
+}
+
+
