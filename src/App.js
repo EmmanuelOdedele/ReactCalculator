@@ -26,6 +26,7 @@ function App() {
   // Function for equal to button
   const evaluate = () => {
     try {
+      // eslint-disable-next-line
       setResult(eval(input));
     } catch (error) {}
   };
