@@ -7,7 +7,7 @@ function Display1(props) {
         className="input-display1"
         type="text"
         value={props.value}
-      ></input>
+        readOnly />
     </div>
   );
 }

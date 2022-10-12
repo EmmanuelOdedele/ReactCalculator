@@ -5,7 +5,9 @@ function Button (props) {
 
     return (
         <input 
+        className="btn"
         type="button"
+        name={props.name}
         value={props.label}
         id={props.id}
         onClick={props.onClick}
