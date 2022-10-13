@@ -13,6 +13,7 @@
   font-size: 20px;
   cursor: default;
   padding: 0 10px 5px 10px;
+  letter-spacing: 1px;
 }
 
 .input-display2:focus {
